@@ -45,6 +45,7 @@
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
+- [F#](https://github.com/GeorgSchneider/awesome-fsharp)
 
 
 ## Front-end Development
